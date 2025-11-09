@@ -37,7 +37,7 @@ cd Mouse-Detection-using-Head-Pose-
 
 Run the main controller script 
 
-final2.py
+headpose_mouse_control.py
 
 
 
